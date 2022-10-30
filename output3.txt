@@ -1,0 +1,83 @@
+L1 Cache
+============================
+Cache Hits: 1331857
+Cache Misses: 168143
+
+-----------------------------------
+Cache Hits Rate:    88.79%
+Cache Misses Rate:  11.21%
+
+-------------------------Next------------------
+
+L2 Cache
+=============================
+Cache Hits: 1367650
+Cache Misses: 132350
+
+-----------------------------------
+Cache Hits Rate:    91.18%
+Cache Misses Rate:  8.82%
+
+
+L1 Cache
+============================
+Cache Hits: 1047156
+Cache Misses: 2186899
+
+-----------------------------------
+Cache Hits Rate:    32.38%
+Cache Misses Rate:  67.62%
+
+-------------------------Next------------------
+
+L2 Cache
+=============================
+Cache Hits: 1082203
+Cache Misses: 2151852
+
+-----------------------------------
+Cache Hits Rate:    33.46%
+Cache Misses Rate:  66.54%
+
+
+L1 Cache
+============================
+Cache Hits: 0
+Cache Misses: 10
+
+-----------------------------------
+Cache Hits Rate:    0.00%
+Cache Misses Rate:  100.00%
+
+-------------------------Next------------------
+
+L2 Cache
+=============================
+Cache Hits: 0
+Cache Misses: 10
+
+-----------------------------------
+Cache Hits Rate:    0.00%
+Cache Misses Rate:  100.00%
+
+
+L1 Cache
+============================
+Cache Hits: 3
+Cache Misses: 17
+
+-----------------------------------
+Cache Hits Rate:    15.00%
+Cache Misses Rate:  85.00%
+
+-------------------------Next------------------
+
+L2 Cache
+=============================
+Cache Hits: 4
+Cache Misses: 16
+
+-----------------------------------
+Cache Hits Rate:    20.00%
+Cache Misses Rate:  80.00%
+

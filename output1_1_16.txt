@@ -1,0 +1,267 @@
+#HPCG
+
+==================================
+Cache type: Assosiative Cache 2048 Way
+==================================
+Cache Hits:    1290298
+Cache Misses:  209702
+
+-----------------------------------
+Cache Hits Rate:    86.02%
+Cache Misses Rate:  13.98%
+
+==================================
+Cache type: Assosiative Cache 1024 Way
+==================================
+Cache Hits:    1303074
+Cache Misses:  196926
+
+-----------------------------------
+Cache Hits Rate:    86.87%
+Cache Misses Rate:  13.13%
+
+==================================
+Cache type: Assosiative Cache 256 Way
+==================================
+Cache Hits:    1369266
+Cache Misses:  130734
+
+-----------------------------------
+Cache Hits Rate:    91.28%
+Cache Misses Rate:  8.72%
+
+
+==================================
+Cache type: Assosiative Cache 8 Way
+==================================
+Cache Hits:    1289701
+Cache Misses:  210299
+
+-----------------------------------
+Cache Hits Rate:    85.98%
+Cache Misses Rate:  14.02%
+
+
+==================================
+Cache type: Assosiative Cache 8 Way
+==================================
+Cache Hits:    1300263
+Cache Misses:  199737
+
+-----------------------------------
+Cache Hits Rate:    86.68%
+Cache Misses Rate:  13.32%
+
+
+==================================
+Cache type: Assosiative Cache 8 Way
+==================================
+Cache Hits:    1324059
+Cache Misses:  175941
+
+-----------------------------------
+Cache Hits Rate:    88.27%
+Cache Misses Rate:  11.73%
+
+
+==================================
+Cache type: Assosiative Cache 4 Way
+==================================
+Cache Hits:    1279056
+Cache Misses:  220944
+
+-----------------------------------
+Cache Hits Rate:    85.27%
+Cache Misses Rate:  14.73%
+
+
+==================================
+Cache type: Assosiative Cache 4 Way
+==================================
+Cache Hits:    1288392
+Cache Misses:  211608
+
+-----------------------------------
+Cache Hits Rate:    85.89%
+Cache Misses Rate:  14.11%
+
+
+==================================
+Cache type: Assosiative Cache 4 Way
+==================================
+Cache Hits:    1318876
+Cache Misses:  181124
+
+-----------------------------------
+Cache Hits Rate:    87.93%
+Cache Misses Rate:  12.07%
+
+
+==================================
+Cache type: Assosiative Cache 2 Way
+==================================
+Cache Hits:    1253555
+Cache Misses:  246445
+
+-----------------------------------
+Cache Hits Rate:    83.57%
+Cache Misses Rate:  16.43%
+
+
+==================================
+Cache type: Assosiative Cache 2 Way
+==================================
+Cache Hits:    1263219
+Cache Misses:  236781
+
+-----------------------------------
+Cache Hits Rate:    84.21%
+Cache Misses Rate:  15.79%
+
+
+==================================
+Cache type: Assosiative Cache 2 Way
+==================================
+Cache Hits:    1316602
+Cache Misses:  183398
+
+-----------------------------------
+Cache Hits Rate:    87.77%
+Cache Misses Rate:  12.23%
+
+
+==================================
+Cache type: Assosiative Cache 256 Way
+==================================
+Cache Hits:    1322564
+Cache Misses:  177436
+
+-----------------------------------
+Cache Hits Rate:    88.17%
+Cache Misses Rate:  11.83%
+
+
+==================================
+Cache type: Assosiative Cache 512 Way
+==================================
+Cache Hits:    1326350
+Cache Misses:  173650
+
+-----------------------------------
+Cache Hits Rate:    88.42%
+Cache Misses Rate:  11.58%
+
+
+==================================
+Cache type: Assosiative Cache 1024 Way
+==================================
+Cache Hits:    1327463
+Cache Misses:  172537
+
+-----------------------------------
+Cache Hits Rate:    88.50%
+Cache Misses Rate:  11.50%
+
+
+==================================
+Cache type: Assosiative Cache 8 Way
+==================================
+Cache Hits:    1285449
+Cache Misses:  214551
+
+-----------------------------------
+Cache Hits Rate:    85.70%
+Cache Misses Rate:  14.30%
+
+
+==================================
+Cache type: Assosiative Cache 8 Way
+==================================
+Cache Hits:    1305573
+Cache Misses:  194427
+
+-----------------------------------
+Cache Hits Rate:    87.04%
+Cache Misses Rate:  12.96%
+
+
+==================================
+Cache type: Assosiative Cache 8 Way
+==================================
+Cache Hits:    1325009
+Cache Misses:  174991
+
+-----------------------------------
+Cache Hits Rate:    88.33%
+Cache Misses Rate:  11.67%
+
+
+
+==================================
+Cache type: Assosiative Cache 4 Way
+==================================
+Cache Hits:    1243984
+Cache Misses:  256016
+
+-----------------------------------
+Cache Hits Rate:    82.93%
+Cache Misses Rate:  17.07%
+
+
+==================================
+Cache type: Assosiative Cache 4 Way
+==================================
+Cache Hits:    1290762
+Cache Misses:  209238
+
+-----------------------------------
+Cache Hits Rate:    86.05%
+Cache Misses Rate:  13.95%
+
+
+
+==================================
+Cache type: Assosiative Cache 4 Way
+==================================
+Cache Hits:    1323409
+Cache Misses:  176591
+
+-----------------------------------
+Cache Hits Rate:    88.23%
+Cache Misses Rate:  11.77%
+
+
+==================================
+Cache type: Assosiative Cache 2 Way
+==================================
+Cache Hits:    1206682
+Cache Misses:  293318
+
+-----------------------------------
+Cache Hits Rate:    80.45%
+Cache Misses Rate:  19.55%
+
+
+==================================
+Cache type: Assosiative Cache 2 Way
+==================================
+Cache Hits:    1294085
+Cache Misses:  205915
+
+-----------------------------------
+Cache Hits Rate:    86.27%
+Cache Misses Rate:  13.73%
+
+
+==================================
+Cache type: Assosiative Cache 2 Way
+==================================
+Cache Hits:    1331615
+Cache Misses:  168385
+
+-----------------------------------
+Cache Hits Rate:    88.77%
+Cache Misses Rate:  11.23%
+
+
+

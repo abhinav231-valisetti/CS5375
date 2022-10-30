@@ -1,0 +1,43 @@
+//hpcg
+==================================
+Cache type:    Direct-Mapped Cache
+==================================
+Cache Hits:    1301327
+Cache Misses:  198673
+
+-----------------------------------
+Cache Hits Rate:    86.76%
+Cache Misses Rate:  13.24%
+
+//stream
+==================================
+Cache type:    Direct-Mapped Cache
+==================================
+Cache Hits:    1059918
+Cache Misses:  2174137
+
+-----------------------------------
+Cache Hits Rate:    32.77%
+Cache Misses Rate:  67.23%
+
+//stream_10
+==================================
+Cache type:    Direct-Mapped Cache
+==================================
+Cache Hits:    0
+Cache Misses:  10
+
+-----------------------------------
+Cache Hits Rate:    0.00%
+Cache Misses Rate:  100.00%
+
+//stream_20
+==================================
+Cache type:    Direct-Mapped Cache
+==================================
+Cache Hits:    4
+Cache Misses:  16
+
+-----------------------------------
+Cache Hits Rate:    20.00%
+Cache Misses Rate:  80.00%
